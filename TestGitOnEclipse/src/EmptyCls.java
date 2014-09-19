@@ -5,5 +5,6 @@ public class EmptyCls {
 	
 	public void show() {
 		System.out.println(textString);
+		System.out.println("git");
 	}
 }
