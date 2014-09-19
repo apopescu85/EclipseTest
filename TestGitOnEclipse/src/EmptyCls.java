@@ -7,5 +7,7 @@ public class EmptyCls {
 		System.out.println(textString);
 		System.out.println("git");
 		System.out.println("out");
+		System.out.println("hello");
+
 	}
 }
